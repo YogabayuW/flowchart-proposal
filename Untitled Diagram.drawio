@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-26T13:54:51.655Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="4QFiDoLdL9XVRdCcxVxf" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-26T13:57:09.206Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36" etag="yBLE4x_M1AMQLYjiI_lg" version="14.9.2" type="github">
   <diagram id="Miadp8Q_i8-TEkMNeKiU" name="Page-1">
     <mxGraphModel dx="1718" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -21,7 +21,7 @@
             <mxPoint x="40" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FrHt9vHI5P7naRnpHzFz-5" value="Suhu air" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="FrHt9vHI5P7naRnpHzFz-5" value="&lt;h3&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Suhu air&lt;/font&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="-100" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FrHt9vHI5P7naRnpHzFz-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="FrHt9vHI5P7naRnpHzFz-7" target="FrHt9vHI5P7naRnpHzFz-9">
@@ -32,7 +32,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FrHt9vHI5P7naRnpHzFz-7" value="Sensor Suhu DS18B20" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="FrHt9vHI5P7naRnpHzFz-7" value="&lt;h3&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Sensor Suhu DS18B20&lt;/font&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="50" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FrHt9vHI5P7naRnpHzFz-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="FrHt9vHI5P7naRnpHzFz-9">
@@ -43,13 +43,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FrHt9vHI5P7naRnpHzFz-9" value="Data suhu air" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="FrHt9vHI5P7naRnpHzFz-9" value="&lt;h3&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Data suhu air&lt;/font&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="-100" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FrHt9vHI5P7naRnpHzFz-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="FrHt9vHI5P7naRnpHzFz-10" target="FrHt9vHI5P7naRnpHzFz-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FrHt9vHI5P7naRnpHzFz-10" value="Keasinan air&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="FrHt9vHI5P7naRnpHzFz-10" value="&lt;h3&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Keasinan air&amp;nbsp;&lt;/font&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="-100" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FrHt9vHI5P7naRnpHzFz-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="FrHt9vHI5P7naRnpHzFz-11" target="FrHt9vHI5P7naRnpHzFz-12">
@@ -59,7 +59,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FrHt9vHI5P7naRnpHzFz-11" value="Sensor Salinitas&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="FrHt9vHI5P7naRnpHzFz-11" value="&lt;h3&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Sensor Salinitas&amp;nbsp;&lt;/font&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="50" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FrHt9vHI5P7naRnpHzFz-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="FrHt9vHI5P7naRnpHzFz-12">
@@ -70,16 +70,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FrHt9vHI5P7naRnpHzFz-12" value="Data keasinan air" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="FrHt9vHI5P7naRnpHzFz-12" value="&lt;h3&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Data keasinan air&lt;/font&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="-100" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FrHt9vHI5P7naRnpHzFz-15" value="pH air" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="FrHt9vHI5P7naRnpHzFz-15" value="&lt;h3&gt;&lt;font face=&quot;Times New Roman&quot;&gt;pH air&lt;/font&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="-100" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FrHt9vHI5P7naRnpHzFz-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" source="FrHt9vHI5P7naRnpHzFz-15" target="FrHt9vHI5P7naRnpHzFz-17" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FrHt9vHI5P7naRnpHzFz-17" value="Sensor pH" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="FrHt9vHI5P7naRnpHzFz-17" value="&lt;h3&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Sensor pH&lt;/font&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="50" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FrHt9vHI5P7naRnpHzFz-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" source="FrHt9vHI5P7naRnpHzFz-17" target="FrHt9vHI5P7naRnpHzFz-19" parent="1">
@@ -99,7 +99,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FrHt9vHI5P7naRnpHzFz-19" value="Data pH air" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="FrHt9vHI5P7naRnpHzFz-19" value="&lt;h3&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Data pH air&lt;/font&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="-100" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FrHt9vHI5P7naRnpHzFz-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="FrHt9vHI5P7naRnpHzFz-23" target="FrHt9vHI5P7naRnpHzFz-25">
@@ -107,31 +107,31 @@
             <mxPoint x="320" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FrHt9vHI5P7naRnpHzFz-23" value="Arduino Uno" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="FrHt9vHI5P7naRnpHzFz-23" value="&lt;h3&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Arduino Uno&lt;/font&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="260" y="90" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FrHt9vHI5P7naRnpHzFz-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="FrHt9vHI5P7naRnpHzFz-25" target="FrHt9vHI5P7naRnpHzFz-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FrHt9vHI5P7naRnpHzFz-25" value="Wemos D1 Mini ESP8266" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="FrHt9vHI5P7naRnpHzFz-25" value="&lt;h3&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Wemos D1 Mini ESP8266&lt;/font&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="260" y="160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FrHt9vHI5P7naRnpHzFz-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="FrHt9vHI5P7naRnpHzFz-26" target="FrHt9vHI5P7naRnpHzFz-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FrHt9vHI5P7naRnpHzFz-26" value="Web service" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="FrHt9vHI5P7naRnpHzFz-26" value="&lt;h3&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Web service&lt;/font&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="260" y="220" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FrHt9vHI5P7naRnpHzFz-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="FrHt9vHI5P7naRnpHzFz-28" target="FrHt9vHI5P7naRnpHzFz-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FrHt9vHI5P7naRnpHzFz-28" value="DB MySQL" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="FrHt9vHI5P7naRnpHzFz-28" value="&lt;h3&gt;&lt;font face=&quot;Times New Roman&quot;&gt;DB MySQL&lt;/font&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="260" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FrHt9vHI5P7naRnpHzFz-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="FrHt9vHI5P7naRnpHzFz-30" target="FrHt9vHI5P7naRnpHzFz-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FrHt9vHI5P7naRnpHzFz-30" value="Fuzzy Tsukamoto" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="FrHt9vHI5P7naRnpHzFz-30" value="&lt;h3&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Fuzzy Tsukamoto&lt;/font&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="260" y="340" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FrHt9vHI5P7naRnpHzFz-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="FrHt9vHI5P7naRnpHzFz-32" target="FrHt9vHI5P7naRnpHzFz-34">
@@ -142,16 +142,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FrHt9vHI5P7naRnpHzFz-32" value="Sistem Identifikasi Kualitas Air" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="FrHt9vHI5P7naRnpHzFz-32" value="&lt;h3&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Sistem Identifikasi Kualitas Air&lt;/font&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="260" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FrHt9vHI5P7naRnpHzFz-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="FrHt9vHI5P7naRnpHzFz-34" target="FrHt9vHI5P7naRnpHzFz-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FrHt9vHI5P7naRnpHzFz-34" value="Monitoring Kualitas Air pada Kolam Udang" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="FrHt9vHI5P7naRnpHzFz-34" value="&lt;h3&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Monitoring Kualitas Air pada Kolam Udang&lt;/font&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="490" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FrHt9vHI5P7naRnpHzFz-36" value="Kualitas Baik atau Buruk" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="FrHt9vHI5P7naRnpHzFz-36" value="&lt;h3&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Kualitas Baik atau Buruk&lt;/font&gt;&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="490" y="170" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
